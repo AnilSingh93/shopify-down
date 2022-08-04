@@ -184,9 +184,10 @@
             "text_alignment_mobile": "center"
           }
         },
-        "165960722929d9d2f5-1": {
+        "2dd0c7f8-6714-4cf1-a645-ccc5a760069d": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/download.png",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -204,7 +205,7 @@
       },
       "block_order": [
         "165960722929d9d2f5-0",
-        "165960722929d9d2f5-1"
+        "2dd0c7f8-6714-4cf1-a645-ccc5a760069d"
       ],
       "settings": {
         "layout": "full_bleed",
